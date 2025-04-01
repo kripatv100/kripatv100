@@ -5,4 +5,3 @@
 - 🐍 I’m currently learning  python, flutter
 - 📖 I love to read
   ## Tech Stacks
-  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
