@@ -1,4 +1,4 @@
-#About Me
+# About Me
 - 👋 Hi, I’m KRIPA TV
 - 👀 I’m interested in coding
 - 🐘 Experience in postgresql
