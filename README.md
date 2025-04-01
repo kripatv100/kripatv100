@@ -1,4 +1,6 @@
+#About Me
 - 👋 Hi, I’m KRIPA TV
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  flutter
-  
+- 🐘 Experience in postgresql
+- 🐍 I’m currently learning  python, flutter
+- 📖 I love to read
