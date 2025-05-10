@@ -2,7 +2,7 @@
 - 👋 Hi, I’m KRIPA TV
 - 👀 I’m interested in coding
 - 🐘 Experience in postgresql
-- 🐍 I’m currently learning  python, flutter
+- 🐍 I’m currently learning  python Django, flutter
 - 📖 I love to read
   ## Tools and Techs
   
