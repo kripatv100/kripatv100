@@ -1,19 +1,26 @@
 # About Me
-- 👋 Hi, I’m KRIPA TV
-- 👀 I’m interested in coding
-- 🐘 Experience in postgresql
-- 🐍 I’m currently learning  python Django
-- 📖 I love to read
-  ## Tools and Techs
-  
-<div align="center">
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" alt="Dart" title="Dart"/></code>
-	<code><img width="47" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" alt="Flutter" title="Flutter"/></code>
-</div>
+# 👋 Hi, I'm KRIPA TV
+
+### 💼 Backend Developer | Laravel & Python Learner | PostgreSQL Specialist
+
+---
+
+🔧 **About Me**
+
+- 👨‍💻 8+ years of experience in backend development using **Core PHP** and **PostgreSQL**
+- 🚀 Currently transitioning into **Laravel** and **Python** for modern web development
+- 🧠 Passionate about building real-world applications with clean code and solid DB design
+- 📚 Learning modern stacks: Laravel (PHP), Python (Flask/Django), and API integration
+
+---
+
+🛠️ **Tech Stack**
+
+```bash
+Languages: PHP, Python, SQL, HTML, CSS, JavaScript,Dart
+Frameworks: Laravel (in progress), Django (learning),flutter(learning)
+Database: PostgreSQL, MySQL
+Tools: Git, GitHub, Postman, VS Code
+
+
+
