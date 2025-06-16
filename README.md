@@ -1,7 +1,7 @@
 # About Me
 # 👋 Hi, I'm KRIPA TV
 
-### 💼 Backend Developer | Laravel & Python Learner | PostgreSQL Specialist
+### 💼 Backend Developer | Python Learner | PostgreSQL 
 
 ---
 
