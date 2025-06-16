@@ -8,9 +8,10 @@
 🔧 **About Me**
 
 - 👨‍💻 8+ years of experience in backend development using **Core PHP** and **PostgreSQL**
-- 🚀 Currently transitioning into **Laravel** and **Python** for modern web development
+- 🚀 Currently now shifting focus to software testing.
 - 🧠 Passionate about building real-world applications with clean code and solid DB design
-- 📚 Learning modern stacks: Laravel (PHP), Python (Flask/Django), and API integration
+- 📚 Learning modern stacks:Python (Flask/Django), and API integration
+- 
 
 ---
 
@@ -18,7 +19,7 @@
 
 ```bash
 Languages: PHP, Python, SQL, HTML, CSS, JavaScript,Dart
-Frameworks: Laravel (in progress), Django (learning),flutter(learning)
+Frameworks: Django (learning),flutter(learning)
 Database: PostgreSQL, MySQL
 Tools: Git, GitHub, Postman, VS Code
 
